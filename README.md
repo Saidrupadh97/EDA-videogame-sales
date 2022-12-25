@@ -1,1 +1,1 @@
-# EDA-videogame-sales
+# Exploratory Data Analysis - Videogames
